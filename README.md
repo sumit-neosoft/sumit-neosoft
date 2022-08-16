@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumit-neosoft
-- 👀 I’m interested in coding and learninng
+- 👀 I’m interested in coding and learning
 - 🌱 I’m currently learning DevOps and Blockchain
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me .. you can reach me at - sumit.neosofttech@gmail.com
